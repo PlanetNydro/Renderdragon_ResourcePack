@@ -1,6 +1,6 @@
 {
 	"pack": {
 		"pack_format": 42,
-		"description": [{"text":"Changes the Ender Dragon into the Render Dragon"}]
+		"description": [{"text":"Changes Ender entities into neon wireframes"}]
 	}
 }
