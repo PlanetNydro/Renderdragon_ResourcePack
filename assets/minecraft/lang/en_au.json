@@ -19,5 +19,21 @@
     "subtitles.entity.enderman.teleport": "Renderman teleports",
     "subtitles.entity.endermite.ambient": "Rendermite scuttles",
     "subtitles.entity.endermite.death": "Rendermite dies",
-    "subtitles.entity.endermite.hurt": "Rendermite hurts"
+    "subtitles.entity.endermite.hurt": "Rendermite hurts",
+  
+    "item.minecraft.ender_eye": "Eye of Render",
+    "item.minecraft.ender_pearl": "Render Pearl",
+
+    "entity.minecraft.ender_pearl": "Thrown Render Pearl",
+    "subtitles.entity.ender_eye.death": "Eye of Render falls",
+    "subtitles.entity.ender_eye.launch": "Eye of Render shoots",
+    "subtitles.entity.ender_pearl.throw": "Render Pearl flies",
+    "advancements.story.follow_ender_eye.description": "Follow an Eye of Render",
+    "block.minecraft.ender_chest": "Render Chest",
+    "container.enderchest": "Render Chest",
+    "entity.minecraft.eye_of_ender": "Eye of Render",
+    "gamerule.enderPearlsVanishOnDeath": "Thrown Render Pearls vanish on death",
+    "gamerule.enderPearlsVanishOnDeath.description": "Whether Render Pearls thrown by a player vanish when that player dies.",
+    "stat.minecraft.open_enderchest": "Render Chests Opened",
+    "subtitles.block.end_portal_frame.fill": "Eye of Render attaches"
 }
