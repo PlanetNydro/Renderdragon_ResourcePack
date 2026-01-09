@@ -8,6 +8,7 @@ Ender Chests, Ender Pearls and Eyes of Ender are also changed to Render Chests, 
 Currently works with version 1.21.11
 
 [PlanetMinecraft Page](https://www.planetminecraft.com/texture-pack/render-dragon)
+[Modrinth Page](https://modrinth.com/resourcepack/nydro-render-dragon)
 
 ![render dragon](https://github.com/user-attachments/assets/f3f7c6d4-e847-4a09-b2b7-70291bc00bd6)
 ![rendermen](https://github.com/user-attachments/assets/08387250-6b60-4b3b-9a61-aae34fdc2f50) |  ![rendermites](https://github.com/user-attachments/assets/b8d67956-3535-449d-b170-c55dd1a0c95a)
