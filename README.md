@@ -5,7 +5,7 @@ This resource pack changes the Ender Dragon, Endermen, Endermites, and End Cryst
 Textures for the above entities are changed to resemble Neon Green Wireframes, with the corrisponding spawn eggs being changed to reflect this with their own unique textures.
 Ender Chests, Ender Pearls and Eyes of Ender are also changed to Render Chests, Render Pearls and Eyes of Render.
 
-Currently works with version 1.21.8
+Currently works with version 1.21.11
 
 [PlanetMinecraft Page](https://www.planetminecraft.com/texture-pack/render-dragon)
 
